@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Memory_Game_Unsplash_Pic/static/css/main.2ae1abef.chunk.css",
+    "main.js": "/Memory_Game_Unsplash_Pic/static/js/main.923b81fd.chunk.js",
+    "main.js.map": "/Memory_Game_Unsplash_Pic/static/js/main.923b81fd.chunk.js.map",
+    "runtime-main.js": "/Memory_Game_Unsplash_Pic/static/js/runtime-main.0b735a59.js",
+    "runtime-main.js.map": "/Memory_Game_Unsplash_Pic/static/js/runtime-main.0b735a59.js.map",
+    "static/js/2.c60e845a.chunk.js": "/Memory_Game_Unsplash_Pic/static/js/2.c60e845a.chunk.js",
+    "static/js/2.c60e845a.chunk.js.map": "/Memory_Game_Unsplash_Pic/static/js/2.c60e845a.chunk.js.map",
+    "index.html": "/Memory_Game_Unsplash_Pic/index.html",
+    "precache-manifest.b7a4e19c81522ce326dea60fdb146ae4.js": "/Memory_Game_Unsplash_Pic/precache-manifest.b7a4e19c81522ce326dea60fdb146ae4.js",
+    "service-worker.js": "/Memory_Game_Unsplash_Pic/service-worker.js",
+    "static/css/main.2ae1abef.chunk.css.map": "/Memory_Game_Unsplash_Pic/static/css/main.2ae1abef.chunk.css.map",
+    "static/js/2.c60e845a.chunk.js.LICENSE.txt": "/Memory_Game_Unsplash_Pic/static/js/2.c60e845a.chunk.js.LICENSE.txt",
+    "static/media/Card.jpg": "/Memory_Game_Unsplash_Pic/static/media/Card.869a023c.jpg",
+    "static/media/Card2.png": "/Memory_Game_Unsplash_Pic/static/media/Card2.46d637d4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b735a59.js",
+    "static/js/2.c60e845a.chunk.js",
+    "static/css/main.2ae1abef.chunk.css",
+    "static/js/main.923b81fd.chunk.js"
+  ]
+}
